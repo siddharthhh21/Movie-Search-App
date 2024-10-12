@@ -22,9 +22,15 @@ Error Handling: Users are notified if a movie is not found, ensuring a smooth ex
 
 Technologies Used:
 
-HTML: For structuring the web pages.
+HTML: For structuring the web pages.  
+
+
 CSS: For styling and enhancing the visual appeal of the application.
+
+
 JavaScript: For dynamic interactions and fetching data from the OMDb API.
+
+
 OMDb API: A web service that provides access to movie data, including title, ratings, and descriptions.
 
 
